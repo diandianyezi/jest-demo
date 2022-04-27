@@ -1,0 +1,18 @@
+{
+  "name": "jest-demo",
+  "version": "1.0.0",
+  "description": "jest test",
+  "main": "index.js",
+  "repository": "git@github.com:diandianyezi/jest-demo.git",
+  "author": "zhangting5 <zhangting5@xiaomi.xom>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.9",
+    "@babel/preset-env": "^7.16.11",
+    "babel-jest": "^27.5.1",
+    "jest": "^27.5.1"
+  }
+}
